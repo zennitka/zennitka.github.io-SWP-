@@ -1,0 +1,24 @@
+html{
+	height:100%;
+	background: -webkit-linear-gradient(-135deg,#454545,#212121);
+	background: linear-gradient(-135deg,#454545,#212121);
+}
+.textop{
+	color:orange;
+	margin-left:auto;
+	margin-right:auto;
+	width: 10%
+
+}
+ul{
+	color:#FFE4B5;
+	margin-left:auto;
+	margin-right:auto;
+	width: 65%
+}
+img{
+	display:block;
+    margin:auto;
+	width:50%;
+
+}
